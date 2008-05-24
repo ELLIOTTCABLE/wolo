@@ -1,3 +1,6 @@
+Prepare new irssi for Freenode
+------------------------------
+
 /network add -nick ec -user cable -realname 'elliott cable' Freenode
 /server add -auto -network Freenode chat.freenode.net
 /channel add -auto #yr Freenode
@@ -10,3 +13,9 @@
 /channel add -auto #GitHub Freenode
 /channel add -auto #Git Freenode
 /connect Freenode
+
+Important channel
+-----------------
+
+Hilight all messages in the channel
+    /hilight -channel #chan -regexp .*
