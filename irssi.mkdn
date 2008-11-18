@@ -1,7 +1,7 @@
 Prepare new irssi for Freenode
 ------------------------------
     
-    /network add -nick ec -user cable -realname 'elliott cable' Freenode
+    /network add -nick elliottcable -user cable -realname 'elliott cable' Freenode
     /server add -auto -network Freenode chat.freenode.net
     /channel add -auto #yr Freenode
     /channel add -auto #BlipBloop Freenode
