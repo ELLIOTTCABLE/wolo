@@ -9,4 +9,4 @@ fork it, if you're feeling sexy- I mean, adventurous.
 pages of note
 -------------
 - none
-- [irssi](irssi.markdown "irssi notes")
+- [irssi](master/irssi.markdown "irssi notes")
