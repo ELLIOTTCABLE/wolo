@@ -1,3 +1,6 @@
+irssi
+=====
+
 Prepare new irssi for Freenode
 ------------------------------
     
