@@ -11,3 +11,4 @@ pages of note
 - none
 - [irssi](master/irssi.markdown "irssi notes")
 - [EVE](master/eve.markdown "EVE-Online stuff")
+- [Espresso](master/espresso.markdown "Espresso")
