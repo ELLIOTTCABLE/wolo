@@ -27,3 +27,10 @@ Things I run into while development, that I need to ask Jan when I see him.
       escaped (thus a part of the match). TextMate gets all confused about
       which parenthesis balances which, and is quite likely to throw off your
       regex-fu.
+ - I can't decide if zones are trying to be greedy or not. I have a zone that
+   defines `def function(` as the `starts-with` expression, and `)` as the
+   `ends-with` expression. The problem arises in that whitespace can be used
+   instead of parentheses, and the parser drops out of the zone at the first
+   chunk of whitespace. For instance, `def function(foo, bar)` is parsed as
+   `def function(foo, ` because that first space is seen as matching the
+   `ends-with` expression.
