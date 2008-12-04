@@ -85,3 +85,53 @@ After this, the order of the skills doesn't matter as much - just follow the
     Spatial Awareness 5
     Clarity 4
     
+Fitting
+=======
+
+Transport
+---------
+This list shows the maximum storage capacity of each transport ship in the
+game. Industrials and Transport Ships are shown first, followed by Freighters
+and Jump Freighters. The first number is without rigs, the second is fully
+rigged (which is more than slightly unrealistic, seeing as that would make the
+ship astronomically expensive). I emphasized the largest values for each
+class.
+
+- Sigil: 12,635 (20,924)
+	- Prorator: 8,258 (11,892)
+- Bestower: 15,856 (26,257)
+	- Impel: 27,387 (39,437)
+- Providence: 918,750
+	- Ark: 344,531
+
+- Badger: 8,382 (13,881)
+	- Crane: 7,112 (10,241)
+	- Bustard: 23,165 (33,357)
+- Badger Mark II: 13,602 (22,525)
+- Charon: 981,250
+	- Rhea: 367,969
+
+- Iteron: 6,096 (10,095)
+	- Viator: 7,773 (11,192)
+	- Occator: 26,850 (38,664)
+- Iteron Mark II: 7,620 (12,619)
+- Iteron Mark III: 12,630 (20,916)
+- Iteron Mark IV: 13,602 (22,525)
+- Iteron Mark V: 25,270 (41,848)
+- Obelisk: 937,500
+	- Anshar: 351,563
+
+- Wreathe: 6,706 (11,105)
+	- Prowler: 6,604 (9,510)
+- Hoarder: 13,213 (21,881)
+- Mammoth: 18,581 (30,770)
+	- Mastodon: 22,112 (31,841)
+- Fenrir: 900,000
+	- Nomad: 337,500
+
+To summarize, the Iteron Mark V wins both for maximum unrigged Industrial
+storage, and overall for rigged storage. However, the Impel wins for unrigged
+Transport storage (which seems the most cost-effective to me). As for
+Freighters, the Caldari win for both classes. Overall, I'd suggest training
+Amarr industrials, because they'll provide the quickest return — not to
+mention that they're rather sturdy.
